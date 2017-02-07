@@ -1,6 +1,7 @@
 kkk
 ooo
 ppp
+main: CHANGED
 test:aaa
 index changed first time
 aaa
