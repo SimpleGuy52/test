@@ -1,3 +1,7 @@
 kkk
 ooo
 ppp
+test:aaa
+index changed first time
+aaa
+test:bbb
